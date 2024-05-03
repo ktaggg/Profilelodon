@@ -1,0 +1,36 @@
+/*Wrapper dari CV*/
+.wrapperOne{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: max-content;
+    background-color: blue;
+    display: flex;
+}
+.wrapperTwo{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: max-content;
+    background-color: red;
+    display: flex;
+}
+
+/*Container dari Wrapper Pertama*/
+.containerOne{
+    padding: 0;
+}
+.containerTwo{
+    padding: 0;
+    margin-left: 50px;
+
+}
+#cv{
+    background-color: aqua;
+}
+
+/*Container dari Wrapper Kedua*/
+.container_two{
+    padding: 0;
+    margin-left: 50px;
+}
