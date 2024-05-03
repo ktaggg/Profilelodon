@@ -4,7 +4,7 @@
     padding: 0;
     width: 100%;
     height: max-content;
-    background-color: blue;
+    background-color: grey;
     display: flex;
 }
 .wrapperTwo{
@@ -12,7 +12,7 @@
     padding: 0;
     width: 100%;
     height: max-content;
-    background-color: red;
+    background-color: lightgrey;
     display: flex;
 }
 
